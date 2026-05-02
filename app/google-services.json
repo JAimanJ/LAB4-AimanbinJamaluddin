@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004398857733",
+    "project_id": "lab4-aimanbinjamaluddin",
+    "storage_bucket": "lab4-aimanbinjamaluddin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004398857733:android:eb20eff26ca373606ed66c",
+        "android_client_info": {
+          "package_name": "com.example.lab4_aimanbinjamaluddin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dDWzu7R29kobhIL9tysO0Rlwqg1HF84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
